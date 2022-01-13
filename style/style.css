@@ -1,0 +1,21 @@
+.container {
+  background-color: white;
+  width: 800px;
+  height: 570px;
+  margin-top: 10px;
+  padding-right: 5px;
+  text-align: right;
+  font-weight: bold;
+  position: static;
+  float: right;
+}
+
+img {
+  margin: -10px;
+  position: absolute;
+  z-index: -1;
+}
+
+p {
+  font-size: small;
+}
